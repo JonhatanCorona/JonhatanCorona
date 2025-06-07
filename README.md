@@ -1,18 +1,15 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKz8a6AX1XQ7zVC/giphy.gif" width="100%" alt="matrix animation" />
-</p>
-<p align="center">
   <a href="https://komarev.com/ghpvc/?username=JonhatanCorona&label=VISITAS+AL+PERFIL&color=00FEEF&style=flat-square" alt="Visitas al perfil">
     <img src="https://komarev.com/ghpvc/?username=JonhatanCorona&label=VISITAS+AL+PERFIL&color=00FEEF&style=flat-square" />
   </a>
 </p>
 
 <h1 align="center">🧑‍💻 Jonhatan Corona</h1>
-<h3 align="center">Full Stack Developer | Especializado en Frontend | Siempre aprendiendo 🚀</h3>
+<h3 align="center">Full Stack Developer | Frontend | Next.js | React | Typescript | Tailwind | PostgreSQL Siempre aprendiendo 🚀</h3>
 
 ---
 
-<table>
+<table width="100%">
   <tr>
     <td valign="top" width="60%">
 
@@ -22,9 +19,6 @@ Soy un **desarrollador full stack** apasionado por crear soluciones tecnológica
 Mi formación como **profesor de matemáticas** me dio una base lógica que hoy aplico al código: pensar en patrones, estructuras y soluciones claras.
 
 Mi experiencia previa en atención al cliente me enseñó a **escuchar, liderar y colaborar**, valores que llevo a cada línea de código.
-
-    </td>
-    <td valign="top" width="40%">
 
 ---
 
@@ -51,9 +45,9 @@ Me impulsa el aprendizaje continuo y el deseo de **mejorar cada día**, tanto t�
 
 ### 🚀 Proyectos
 
-<table>
+<table width="100%" style="table-layout: fixed; word-wrap: break-word;">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="padding-right: 15px;">
       <h3>🧠 <a href="https://front-pf-2025-1t99.vercel.app">Séntia</a></h3>
       <p>Aplicación emocional con Next.js para registrar, comprender y gestionar emociones. Incorpora un diseño limpio y un chat con IA (Gemini) para el bienestar emocional.</p>
       <p><strong>Funcionalidades destacadas:</strong></p>
@@ -69,7 +63,7 @@ Me impulsa el aprendizaje continuo y el deseo de **mejorar cada día**, tanto t�
         <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,framermotion,recharts,nodejs,express,postgres,prisma,stripe" alt="Stack de Séntia" />
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="padding-left: 15px;">
       <h3>🛒 <a href="https://tech-store-lemon-seven.vercel.app/">TechStore</a></h3>
       <p>Tienda online funcional creada con Next.js, enfocada en una experiencia de compra rápida y optimizada para móviles.<br>🔗 <strong><a href="https://github.com/JonhatanCorona/TechStore">Ver Repositorio</a></strong></p>
       <p><strong>Funcionalidades destacadas:</strong></p>
@@ -114,10 +108,3 @@ Me impulsa el aprendizaje continuo y el deseo de **mejorar cada día**, tanto t�
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JonhatanCorona&theme=tokyo-night&hide_border=true&bg_color=1A1B27" alt="Gráfico de Actividad de Jonhatan" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250" />
-</p>
