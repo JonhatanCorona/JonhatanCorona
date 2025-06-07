@@ -9,13 +9,9 @@
 
 ---
 
-<table width="100%">
-  <tr>
-    <td valign="top" width="60%">
-
 ### 👤 ¿Quién soy?
 
-Soy un **desarrollador full stack** apasionado por crear soluciones tecnológicas elegantes y funcionales.
+Soy un **desarrollador full stack** apasionado por crear soluciones tecnológicas elegantes y funcionales.  
 Mi formación como **profesor de matemáticas** me dio una base lógica que hoy aplico al código: pensar en patrones, estructuras y soluciones claras.
 
 Mi experiencia previa en atención al cliente me enseñó a **escuchar, liderar y colaborar**, valores que llevo a cada línea de código.
@@ -24,63 +20,34 @@ Mi experiencia previa en atención al cliente me enseñó a **escuchar, liderar 
 
 ### ⚡ ¿Qué hago?
 
-✨ Desarrollo interfaces fluidas, modernas y accesibles.<br>
-🔧 Creo APIs robustas, seguras y bien estructuradas.<br>
-📦 Trabajo con bases de datos relacionales y NoSQL.<br>
+✨ Desarrollo interfaces fluidas, modernas y accesibles.  
+🔧 Creo APIs robustas, seguras y bien estructuradas.  
+📦 Trabajo con bases de datos relacionales y NoSQL.  
 🚀 Despliego proyectos reales en producción.
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=React+%7C+Next.js+%7C+Tailwind+%7C+Node.js+%7C+PostgreSQL+%7C+MongoDB&center=true&width=1000&color=00FEEF&size=22" />
-</p>
 
 ---
 
 ### 🎯 ¿A dónde me dirijo?
 
-Estoy en constante evolución como desarrollador.
-Busco equipos donde pueda aportar, crecer y crear productos que realmente **marquen la diferencia**.
+Estoy en constante evolución como desarrollador.  
+Busco equipos donde pueda aportar, crecer y crear productos que realmente **marquen la diferencia**.  
 Me impulsa el aprendizaje continuo y el deseo de **mejorar cada día**, tanto técnica como humanamente.
 
 ---
 
 ### 🚀 Proyectos
 
-<table width="100%" style="table-layout: fixed; word-wrap: break-word;">
-  <tr>
-    <td width="50%" valign="top" style="padding-right: 15px;">
-      <h3>🧠 <a href="https://front-pf-2025-1t99.vercel.app">Séntia</a></h3>
-      <p>Aplicación emocional con Next.js para registrar, comprender y gestionar emociones. Incorpora un diseño limpio y un chat con IA (Gemini) para el bienestar emocional.</p>
-      <p><strong>Funcionalidades destacadas:</strong></p>
-      <ul>
-        <li>💬 Chat con IA Emocional (Gemini)</li>
-        <li>💳 Suscripción y pagos con Stripe</li>
-        <li>🔐 Autenticación con NextAuth.js</li>
-        <li>📓 Bitácora emocional con gráficos (Recharts)</li>
-        <li>📊 Panel administrativo completo</li>
-      </ul>
-      <p><strong>Stack utilizado:</strong></p>
-      <p>
-        <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,framermotion,recharts,nodejs,express,postgres,prisma,stripe" alt="Stack de Séntia" />
-      </p>
-    </td>
-    <td width="50%" valign="top" style="padding-left: 15px;">
-      <h3>🛒 <a href="https://tech-store-lemon-seven.vercel.app/">TechStore</a></h3>
-      <p>Tienda online funcional creada con Next.js, enfocada en una experiencia de compra rápida y optimizada para móviles.<br>🔗 <strong><a href="https://github.com/JonhatanCorona/TechStore">Ver Repositorio</a></strong></p>
-      <p><strong>Funcionalidades destacadas:</strong></p>
-      <ul>
-        <li>🛍️ Catálogo de productos con filtros</li>
-        <li>🛒 Carrito de compras interactivo (Context)</li>
-        <li>🔍 Búsqueda rápida de productos</li>
-        <li>🎨 Diseño moderno con Tailwind CSS</li>
-        <li>🌙 Soporte para modo oscuro</li>
-      </ul>
-      <p><strong>Stack utilizado:</strong></p>
-      <p>
-        <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" alt="Stack de TechStore" />
-      </p>
-    </td>
-  </tr>
-</table>
+#### 🧠 [Séntia](https://front-pf-2025-1t99.vercel.app)  
+Aplicación emocional con Next.js para registrar, comprender y gestionar emociones, con chat IA para bienestar emocional.  
+Stack:  
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,framermotion,recharts,nodejs,express,postgres,prisma,stripe" alt="Stack de Séntia" />
+
+---
+
+#### 🛒 [TechStore](https://tech-store-lemon-seven.vercel.app/)  
+Tienda online con Next.js enfocada en experiencia de compra rápida y optimizada para móviles.  
+Stack:  
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" alt="Stack de TechStore" />
 
 ---
 
