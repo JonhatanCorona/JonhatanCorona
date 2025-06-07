@@ -1,77 +1,123 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="100%" alt="tecnología animada" />
+  <img src="https://media.giphy.com/media/3o7TKz8a6AX1XQ7zVC/giphy.gif" width="100%" alt="matrix animation" />
+</p>
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=JonhatanCorona&label=VISITAS+AL+PERFIL&color=00FEEF&style=flat-square" alt="Visitas al perfil">
+    <img src="https://komarev.com/ghpvc/?username=JonhatanCorona&label=VISITAS+AL+PERFIL&color=00FEEF&style=flat-square" />
+  </a>
 </p>
 
-<h1 align="center">¡Hola! Soy Jonhatan Corona 👋</h1>
+<h1 align="center">🧑‍💻 Jonhatan Corona</h1>
+<h3 align="center">Full Stack Developer | Especializado en Frontend | Siempre aprendiendo 🚀</h3>
 
 ---
 
-## 👤 ¿Quién soy?
+<table>
+  <tr>
+    <td valign="top" width="60%">
 
-Soy un **desarrollador Full Stack** con fuerte especialización en **frontend**. Vengo del mundo de la educación, con experiencia como **profesor de matemáticas**, lo cual despertó mi pasión por la tecnología, los patrones y la resolución de problemas.
+### 👤 ¿Quién soy?
 
-También cuento con más de **4 años de experiencia en atención al cliente** (Movistar, Claro, Entel y Glovo España), donde desarrollé habilidades como liderazgo, empatía y trabajo en equipo. Hoy aplico ese mismo enfoque humano y orientado a soluciones en el desarrollo de software.
+Soy un **desarrollador full stack** apasionado por crear soluciones tecnológicas elegantes y funcionales.
+Mi formación como **profesor de matemáticas** me dio una base lógica que hoy aplico al código: pensar en patrones, estructuras y soluciones claras.
 
----
+Mi experiencia previa en atención al cliente me enseñó a **escuchar, liderar y colaborar**, valores que llevo a cada línea de código.
 
-## 🛠 ¿Qué hago?
-
-Me dedico a construir **interfaces web modernas, dinámicas y escalables**.  
-Trabajo tanto en el frontend como en el backend, aunque me especializo en tecnologías del lado del cliente.
-
-- Diseño de interfaces funcionales con React y Tailwind  
-- Desarrollo de APIs con Node.js y TypeScript  
-- Gestión de bases de datos relacionales y no relacionales  
-- Despliegue en Vercel y GitHub  
+    </td>
+    <td valign="top" width="40%">
 
 ---
 
-## 🎯 ¿A dónde me dirijo?
+### ⚡ ¿Qué hago?
 
-Estoy enfocado en seguir creciendo como **frontend developer**, aprendiendo tecnologías modernas y buenas prácticas para construir **productos sólidos, escalables y accesibles**.
+✨ Desarrollo interfaces fluidas, modernas y accesibles.<br>
+🔧 Creo APIs robustas, seguras y bien estructuradas.<br>
+📦 Trabajo con bases de datos relacionales y NoSQL.<br>
+🚀 Despliego proyectos reales en producción.
 
-Mi meta es unirme a un equipo con visión, donde pueda **aportar valor real**, seguir aprendiendo y colaborar para alcanzar objetivos ambiciosos.
-
----
-
-## 🚀 Tecnologías que uso
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=React+%7C+Next.js+%7C+Tailwind+%7C+Node.js+%7C+PostgreSQL+%7C+MongoDB&center=true&width=1000&color=00FEEF&size=22" />
 </p>
 
 ---
 
-## 📂 Proyectos
+### 🎯 ¿A dónde me dirijo?
 
-### 💻 [Tech Store](https://tech-store.vercel.app)
-E-commerce de tecnología con funciones como carrito, filtros, autenticación y despliegue en Vercel.
-
-### 🧠 Sentía
-Plataforma emocional colaborativa centrada en el bienestar emocional y la autoexpresión.
+Estoy en constante evolución como desarrollador.
+Busco equipos donde pueda aportar, crecer y crear productos que realmente **marquen la diferencia**.
+Me impulsa el aprendizaje continuo y el deseo de **mejorar cada día**, tanto técnica como humanamente.
 
 ---
 
-## 📊 Estadísticas de GitHub
+### 🚀 Proyectos
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JonhatanCorona&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://front-pf-2025-1t99.vercel.app">Séntia</a></h3>
+      <p>Aplicación emocional con Next.js para registrar, comprender y gestionar emociones. Incorpora un diseño limpio y un chat con IA (Gemini) para el bienestar emocional.</p>
+      <p><strong>Funcionalidades destacadas:</strong></p>
+      <ul>
+        <li>💬 Chat con IA Emocional (Gemini)</li>
+        <li>💳 Suscripción y pagos con Stripe</li>
+        <li>🔐 Autenticación con NextAuth.js</li>
+        <li>📓 Bitácora emocional con gráficos (Recharts)</li>
+        <li>📊 Panel administrativo completo</li>
+      </ul>
+      <p><strong>Stack utilizado:</strong></p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,framermotion,recharts,nodejs,express,postgres,prisma,stripe" alt="Stack de Séntia" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛒 <a href="https://tech-store-lemon-seven.vercel.app/">TechStore</a></h3>
+      <p>Tienda online funcional creada con Next.js, enfocada en una experiencia de compra rápida y optimizada para móviles.<br>🔗 <strong><a href="https://github.com/JonhatanCorona/TechStore">Ver Repositorio</a></strong></p>
+      <p><strong>Funcionalidades destacadas:</strong></p>
+      <ul>
+        <li>🛍️ Catálogo de productos con filtros</li>
+        <li>🛒 Carrito de compras interactivo (Context)</li>
+        <li>🔍 Búsqueda rápida de productos</li>
+        <li>🎨 Diseño moderno con Tailwind CSS</li>
+        <li>🌙 Soporte para modo oscuro</li>
+      </ul>
+      <p><strong>Stack utilizado:</strong></p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" alt="Stack de TechStore" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Stack Tecnológico
+
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,postgres,mongodb,vercel,git,github" /></a>
 </p>
 
 ---
 
-## 📬 Contacto
+### 🤝 Contacto
 
-- 📧 **Email:** coronajonhatan@gmail.com  
-- 🐙 **GitHub:** [JonhatanCorona](https://github.com/JonhatanCorona)  
-- 📱 **Teléfono:** +57 318 185 2774  
+<p align="center">
+  <a href="mailto:coronajonhatan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  &nbsp;
+  <a href="https://github.com/JonhatanCorona"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  &nbsp;
+  <a href="https://wa.me/573181852774"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/jonhatan-corona"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
-¿Coordinamos una reunión para contarte cómo puedo sumar a tu equipo?
+> 💬 *¿Coordinamos una reunión para contarte cómo puedo sumar a tu equipo?*
 
 ---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JonhatanCorona&theme=tokyo-night&hide_border=true&bg_color=1A1B27" alt="Gráfico de Actividad de Jonhatan" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250" />
+</p>
