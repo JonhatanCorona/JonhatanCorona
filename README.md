@@ -71,7 +71,7 @@ Stack:
   <a href="https://www.linkedin.com/in/jonhatan-corona"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-> <h3 align="center">*💬 ¿Quieres saber cómo puedo aportar a tu proyecto o equipo? Contáctame para conversar.*<h3>
+> <h3 align="center">💬 ¿Quieres saber cómo puedo aportar a tu proyecto o equipo? Contáctame para conversar.<h3>
 
 ---
 
