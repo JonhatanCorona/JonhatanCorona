@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">🧑‍💻 Jonhatan Corona</h1>
-<h3 align="center">Full Stack Developer | Frontend | Next.js | React | Typescript | Tailwind | PostgreSQL Siempre aprendiendo 🚀</h3>
+<h3 align="center">Full Stack Developer | Frontend | Next.js | React | Typescript | Tailwind | PostgreSQL </h3>
 
 ---
 
