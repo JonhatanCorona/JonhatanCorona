@@ -4,70 +4,67 @@
   <img src="https://komarev.com/ghpvc/?username=JonhatanCorona&label=VISITAS+AL+PERFIL&color=00FEEF&style=flat-square" />
 </a>
 
-<h1>🧑‍💻 Jonhatan Corona</h1>
-<h3>Full Stack Developer | Frontend | Next.js | React | Typescript | Tailwind | PostgreSQL</h3>
+# 🧑‍💻 Jonhatan Corona
+
+## Full Stack Developer | Frontend | Next.js | React | TypeScript | Tailwind CSS | PostgreSQL
 
 ---
 
-### 👤 ¿Quién soy?
+## 👤 ¿Quién soy?
 
-Soy un <strong>desarrollador full stack</strong> apasionado por crear soluciones tecnológicas elegantes y funcionales.  
-Mi formación como <strong>profesor de matemáticas</strong> me dio una base lógica que hoy aplico al código: pensar en patrones, estructuras y soluciones claras.
+Soy un desarrollador Full Stack apasionado por crear soluciones tecnológicas elegantes y funcionales.  
+Mi formación como profesor de matemáticas me dio una base lógica sólida que aplico en el código: pensar en patrones, estructuras y soluciones claras.
 
-Mi experiencia previa en atención al cliente me enseñó a <strong>escuchar, liderar y colaborar</strong>, valores que llevo a cada línea de código.
-
----
-
-### ⚡ ¿Qué hago?
-
-✨ Desarrollo interfaces fluidas, modernas y accesibles.  
-🔧 Creo APIs robustas, seguras y bien estructuradas.  
-📦 Trabajo con bases de datos relacionales y NoSQL.  
-🚀 Despliego proyectos reales en producción.
+Mi experiencia previa en atención al cliente me enseñó a escuchar, liderar y colaborar, valores que llevo a cada línea de código.
 
 ---
 
-### 🎯 ¿A dónde me dirijo?
+## ⚡ ¿Qué hago?
 
-Estoy en constante evolución como desarrollador.  
-Busco equipos donde pueda aportar, crecer y crear productos que realmente <strong>marquen la diferencia</strong>.  
-Me impulsa el aprendizaje continuo y el deseo de <strong>mejorar cada día</strong>, tanto técnica como humanamente.
-
----
-
-### 🚀 Proyectos
-
-#### 🧠 <a href="https://front-pf-2025-1t99.vercel.app" style="color:#00ffff">Séntia</a>  
-Aplicación emocional con Next.js para registrar, comprender y gestionar emociones, con chat IA para bienestar emocional.  
-Stack:  
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,framermotion,recharts,nodejs,express,postgres,prisma,stripe" alt="Stack de Séntia" />
+- ✨ Desarrollo interfaces fluidas, modernas y accesibles.  
+- 🔧 Creo APIs robustas, seguras y bien estructuradas con Node.js y Express.  
+- 📦 Trabajo con bases de datos relacionales y NoSQL (PostgreSQL, MongoDB).  
+- 🚀 Despliego proyectos reales en producción usando Vercel, Heroku y GitHub Actions.  
 
 ---
 
-#### 🛒 <a href="https://tech-store-lemon-seven.vercel.app/" style="color:#00ffff">TechStore</a>  
-Tienda online con Next.js enfocada en experiencia de compra rápida y optimizada para móviles.  
-Stack:  
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" alt="Stack de TechStore" />
+## 🚀 Proyectos destacados
+
+### 🧠 Séntia  
+Aplicación emocional colaborativa para registrar, comprender y gestionar emociones, con chat IA para bienestar emocional.  
+**Tecnologías:** Next.js, React, TypeScript, Tailwind CSS, Framer Motion, Recharts, Stripe, NextAuth.js, EmailJS
+
+### 🛒 TechStore  
+Tienda online rápida, moderna y mobile-first, con filtros y carrito de compras.  
+**Tecnologías:** Next.js, React, TypeScript, Tailwind CSS
+
+### 📊 Scraper de ofertas laborales con Puppeteer, Google Sheets y Heroku  
+Automatización para extraer ofertas de Computrabajo, almacenar en Google Sheets y analizar compatibilidad con perfil usando OpenAI API.  
+Optimizado para despliegue en Heroku con ejecución programada.  
+**Tecnologías:** Node.js, Puppeteer, Google Cloud API, OpenAI API, Heroku
+
+### 🎵 Automatización en YouTube y YouTube Music con Playwright  
+Bot que navega, busca y reproduce contenido automáticamente, simulando interacciones humanas y controlando la reproducción periódica.  
+**Tecnologías:** Node.js, Playwright, JavaScript
 
 ---
 
-### 🛠️ Stack Tecnológico
+## 🛠️ Stack Tecnológico
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,postgres,mongodb,vercel,git,github" /></a>
+**Lenguajes:** JavaScript, TypeScript, HTML5, CSS3  
+**Frontend:** React, Next.js, Angular, Tailwind CSS, Framer Motion  
+**Backend:** Node.js, Express  
+**Bases de Datos:** PostgreSQL, MongoDB  
+**Validación:** Formik, Yup  
+**Otras herramientas:** Axios, SweetAlert2, Stripe, Git, GitHub, Vercel, Heroku  
+---
+
+## 🤝 Contacto
+
+- 📧 [Email](mailto:coronajonahatan@example.com)  
+- 💻 [GitHub](https://github.com/JonhatanCorona)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jonhatan-corona/)
 
 ---
 
-### 🤝 Contacto
-
-<a href="mailto:coronajonhatan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-&nbsp;
-<a href="https://github.com/JonhatanCorona"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-&nbsp;
-<a href="https://wa.me/573181852774"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/jonhatan-corona"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
-<h3>💬 ¿Quieres saber cómo puedo aportar a tu proyecto o equipo? Contáctame para conversar.</h3>
-
-</div>
-
+💬 ¿Quieres saber cómo puedo aportar a tu proyecto o equipo? Contáctame para conversar.
