@@ -1,7 +1,8 @@
 <!-- =======================
      PORTADA (Banner)
 ======================= -->
-<div align="right" style="background: url('./fondo.png'); background-size: cover; background-position: center; padding: 30px; border-radius: 14px;">
+<div align="right" style="background: url('https://raw.githubusercontent.com/JonhatanCorona/JonhatanCorona/main/fondo.png'); background-size: cover; background-position: center; padding: 30px; border-radius: 14px;">
+
 
   <h1 style="color:#ffffff; font-size: 2.8em; font-weight: bold; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-shadow: 2px 2px 6px #000000;">
     🚀 Desarrollador <span style="color:#00CFFF;">FullStack</span>
