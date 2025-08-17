@@ -70,19 +70,17 @@ Bot que navega, busca y reproduce contenido automáticamente, simulando interacc
 💬 ¿Quieres saber cómo puedo aportar a tu proyecto o equipo? Contáctame para conversar.
 
 
-<p align="left">
-  <img src="https://TU-URL-DE-IMAGEN.com/banner-fullstack.png"
-       alt="Desarrollador FullStack — Banner tecnológico azul/negro"
-       width="100%" />
-</p>
+<!-- =======================
+     PORTADA (Banner)
+======================= -->
+<div align="right" style="background: linear-gradient(to right, #000000, #007BFF); padding: 30px; border-radius: 14px;">
 
-<!-- Opcional: guarda el prompt aquí como referencia para regenerar la imagen
-"Banner moderno y profesional con temática tecnológica para un README de GitHub. Texto principal en tipografía futurista y en negrita: 'Desarrollador FullStack', alineado hacia la izquierda del banner. Debajo, en texto o iconos pequeños y bien ordenados, mostrar las tecnologías más relevantes: 'JavaScript, TypeScript, React, Next.js, Node.js, Express, PostgreSQL, MongoDB, Tailwind CSS, Git, GitHub, Docker, Vercel, Stripe'. Fondo con un degradado en tonos azul y negro, con circuitos digitales, patrones tecnológicos y detalles brillantes en neón azul. Estilo minimalista, elegante, futurista, con un aire de innovación. Formato horizontal, ideal como imagen de portada para un perfil de GitHub."
--->
+<h1 style="color:#ffffff; font-size: 2.8em; font-weight: bold; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-shadow: 2px 2px 6px #000000;">
+  🚀 Desarrollador <span style="color:#00CFFF;">FullStack</span>
+</h1>
 
-## 🛠️ Stack Tecnológico (clave para empresas)
 
-<p>
+<p align="right">
   <!-- Lenguajes -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript" />
