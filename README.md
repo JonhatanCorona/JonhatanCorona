@@ -1,9 +1,4 @@
 
-<!-- Encabezado animado -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=¡Hola!+👋+Soy+Jonhatan+Corona;Desarrollador+Full+Stack;Apasionado+por+la+tecnología+y+el+código+limpio" alt="Typing SVG" />
-</p>
-
 ---
 
 <h3 align="center">🚀 Full Stack Developer | Backend | Frontend | Next.js | Node.js | TypeScript | Tailwind CSS | PostgreSQL</h3>
@@ -68,7 +63,6 @@ Bot que simula interacciones humanas para buscar y reproducir contenido automát
 
 ## 🧰 Stack Tecnológico
 
-```yaml
 Lenguajes: JavaScript, TypeScript, PHP, HTML5, CSS3
 Frontend: React, Next.js, Angular, Tailwind CSS, Framer Motion, Bootstrap
 Backend: Node.js, Express, NestJS, Laravel, Yii2
