@@ -76,6 +76,8 @@ Bases de Datos: PostgreSQL, MongoDB, MySQL
 Metodologías: Scrum, GitFlow
 Herramientas: Git, GitHub, Docker, Cloudinary, Stripe, Figma, Vercel, Heroku
 
+---
+
 ## 🎓 Formación y Aprendizaje Continuo
 
 🎓 **Desarrollador Full Stack – Henry Bootcamp** (2025)  
