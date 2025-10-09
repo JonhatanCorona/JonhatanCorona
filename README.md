@@ -1,111 +1,98 @@
+<div align="center">
+  
+# 🚀 Jonhatan Corona | Desarrollador Full Stack
+
+### **Backend** (Node.js, Express, PostgreSQL) | **Frontend** (Next.js, React, TypeScript)
+</div>
 
 ---
 
-<h3 align="center">🚀 Full Stack Developer | Backend | Frontend | Next.js | Node.js | TypeScript | Tailwind CSS | PostgreSQL</h3>
+## 💡 Sobre Mí
+
+Soy un **Desarrollador Full Stack** con un fuerte enfoque en **Backend** y dominio del ecosistema **JavaScript / TypeScript**. 
+Mi experiencia previa como **profesor de matemáticas** me proporcionó una **sólida base lógica** que aplico para crear soluciones **claras, escalables y seguras**.
+
+Actualmente, desarrollo **APIs RESTful** (Node.js, Express, JWT) y optimizo recursos con **Cloudinary** y **PostgreSQL** en la plataforma financiera **SwaplyAr**.
+
+**En Crecimiento Constante:**
+* 📘 **Inglés** (SENA) para mejorar la comunicación global.
+* 🪙 **Blockchain** (ETH Kipu) para explorar el desarrollo descentralizado.
+
+> 💬 **Frase:** “La tecnología no solo resuelve problemas, también conecta ideas, personas y sueños.”
 
 ---
 
-## 👨‍💻 Sobre mí
+## 🛠️ Stack Tecnológico (Skills Key)
 
-Soy un **Desarrollador Full Stack** con un fuerte enfoque en **Backend** y experiencia en el ecosistema **JavaScript / TypeScript**.  
-Mi formación como **profesor de matemáticas** me dio una base lógica sólida que aplico al crear soluciones **claras, escalables y seguras**.  
-
-Actualmente trabajo en **SwaplyAr**, una plataforma financiera donde desarrollo **APIs RESTful** con **Node.js, Express y JWT**, y optimizo el manejo de recursos con **Cloudinary** y **PostgreSQL**.  
-
-Además, estoy ampliando mis horizontes con:  
-- 📘 Un **curso de inglés en el SENA** (para mejorar mi comunicación global).  
-- 🪙 Un **curso de Blockchain en ETH Kipu** (para explorar el desarrollo descentralizado).  
+| Categoría | Tecnologías Clave | Herramientas y Frameworks |
+| :--- | :--- | :--- |
+| **Lenguajes** | **JavaScript, TypeScript, PHP** | HTML5, CSS3 |
+| **Frontend** | **React, Next.js, Tailwind CSS** | Angular, Framer Motion, Bootstrap |
+| **Backend** | **Node.js, Express, NestJS** | Laravel, Yii2 |
+| **Bases de Datos** | **PostgreSQL, MongoDB, MySQL** | - |
+| **DevOps & Cloud** | **Docker, CI/CD (GitHub Actions)** | Vercel, Heroku, Cloudinary |
+| **Metodologías** | **Scrum, GitFlow** | Git, GitHub |
 
 ---
 
-## ⚙️ Qué hago
+## ⚙️ Enfoque y Responsabilidades
 
-- 🧩 Desarrollo **interfaces modernas, accesibles y dinámicas** con React y Next.js.  
-- ⚙️ Construyo **APIs RESTful robustas y seguras** con Node.js, Express y NestJS.  
-- 🗃️ Diseño y optimizo **bases de datos relacionales y NoSQL** (PostgreSQL, MongoDB, MySQL).  
-- 🚀 Implemento despliegues en **Vercel, Heroku y Docker**, integrando **CI/CD** con GitHub Actions.  
-- 🔐 Autenticación con **JWT** y manejo de recursos con **Cloudinary**.  
-- 💡 En constante aprendizaje: **Laravel**, **IA para análisis de datos** y **Blockchain**.  
+- ⚙️ Construyo **APIs RESTful robustas y seguras** (Node.js, Express, NestJS) con autenticación **JWT**.
+- 🧩 Desarrollo **interfaces modernas y dinámicas** con React y **Next.js**.
+- 🗃️ Diseño y optimizo **bases de datos relacionales y NoSQL**.
+- 🚀 Implemento despliegues con **Docker** e integro **CI/CD** (GitHub Actions).
+- 💡 Aprendizaje activo en: **Laravel, IA para Análisis de Datos** y **Blockchain**.
 
 ---
 
 ## 🌟 Proyectos Destacados
 
-### 🧠 [Séntia](#)
-Aplicación colaborativa para registrar y comprender emociones, con chat de IA y visualizaciones dinámicas.  
-**Tecnologías:** Next.js · React · TypeScript · Tailwind CSS · Framer Motion · Recharts · Stripe · NextAuth.js · EmailJS  
+### 🧠 [Séntia](https://front-pf-2025-1t99.vercel.app/)
+Aplicación colaborativa para registrar y comprender emociones, con chat de IA y visualizaciones dinámicas.
+> *Tecnologías: Next.js · React · TypeScript · Tailwind CSS · Framer Motion · Stripe · NextAuth.js*
 
----
+### 🛒 [TechStore](https://tech-store-steel-phi.vercel.app/) 
+E-commerce moderno y mobile-first con filtros, carrito y entorno seguro.
+> *Tecnologías: Next.js · React · TypeScript · Tailwind CSS*
 
-### 🛒 [TechStore](#)
-E-commerce moderno y mobile-first con filtros, carrito y entorno seguro.  
-**Tecnologías:** Next.js · React · TypeScript · Tailwind CSS  
-
----
-
-### 💸 [SwaplyAr](#)
+### 💸 [SwaplyAr](https://www.swaplyar.com/es/inicio)
 Plataforma financiera donde desarrollo APIs RESTful, autenticación JWT y optimización de recursos multimedia.  
-**Tecnologías:** Node.js · Express · PostgreSQL · Docker · Cloudinary · GitHub  
-
----
+> **Tecnologías:** Node.js · Express · PostgreSQL · Docker · Cloudinary · GitHub  
 
 ### 🤖 Scraper de Ofertas Laborales
-Automatización con Puppeteer y Google Sheets para extraer y analizar ofertas laborales usando OpenAI API.  
-**Tecnologías:** Node.js · Puppeteer · Google Cloud API · OpenAI API · Heroku  
-
----
-
-### 🎵 Automatización en YouTube Music
-Bot que simula interacciones humanas para buscar y reproducir contenido automáticamente.  
-**Tecnologías:** Node.js · Playwright · JavaScript  
-
----
-
-## 🧰 Stack Tecnológico
-
-Lenguajes: JavaScript, TypeScript, PHP, HTML5, CSS3
-Frontend: React, Next.js, Angular, Tailwind CSS, Framer Motion, Bootstrap
-Backend: Node.js, Express, NestJS, Laravel, Yii2
-Bases de Datos: PostgreSQL, MongoDB, MySQL
-Metodologías: Scrum, GitFlow
-Herramientas: Git, GitHub, Docker, Cloudinary, Stripe, Figma, Vercel, Heroku
-
----
-
-## 🎓 Formación y Aprendizaje Continuo
-
-🎓 **Desarrollador Full Stack – Henry Bootcamp** (2025)  
-🎓 **Licenciado en Educación (Matemáticas y Física) – UNERMB** (2016)  
-🧠 **IA para Análisis de Datos – Henry**  
-⚙️ **Docker de Novato a Pro – Cursa**  
-🪙 **Blockchain – ETH Kipu (en curso)**  
-🌍 **Inglés – SENA (en curso)**  
+Automatización con **Puppeteer** y Google Sheets para extraer y analizar ofertas laborales usando la **OpenAI API**.
+> *Tecnologías: Node.js · Puppeteer · Google Cloud API · OpenAI API · Heroku*
 
 ---
 
 ## 💼 Experiencia Profesional
 
-### 💸 Backend Developer – SwaplyAr *(Argentina, remoto)*  
-**Jun 2025 – Sep 2025**  
-Desarrollo y mantenimiento de **APIs RESTful**, integración de servicios externos, validaciones, autenticación **JWT** y optimización de recursos multimedia con **Cloudinary**.  
+### **Backend Developer – SwaplyAr** *(Argentina, remoto)*
+**Jun 2025 – Sep 2025**
+- Desarrollo y mantenimiento de **APIs RESTful** críticas para la plataforma financiera.
+- Implementación de autenticación **JWT** y validaciones de datos.
+- Optimización de recursos multimedia con **Cloudinary** y gestión de **PostgreSQL**.
+
+### **Técnico en Soporte y Desarrollo Freelance – Ferretería DyF** *(Venezuela)*
+**Ene 2024 – May 2025**
+- Mantenimiento y optimización de **bases de datos PostgreSQL**.
+- Desarrollo de **interfaces web** para gestión interna.
+- Soporte técnico integral de sistemas.
+
+### **Profesor de Matemáticas y Física – U.E. “Manuel Belloso”** *(Venezuela)*
+**Ago 2017 – Dic 2019**
+- Planificación académica y desarrollo del **pensamiento lógico** en estudiantes.
 
 ---
 
-### 🛠️ Técnico en Soporte y Desarrollo Freelance – Ferretería DyF *(Venezuela)*  
-**Ene 2024 – May 2025**  
-Mantenimiento de **bases de datos PostgreSQL**, desarrollo de **interfaces web** y soporte técnico integral.  
+## 🎓 Formación y Certificaciones
 
----
-
-### 🎧 Supervisor de Atención al Cliente – 3ERIZA / ECC *(Perú)*  
-**Sep 2020 – Dic 2024**  
-Liderazgo de equipos, gestión de **KPIs (TMO, FCR, CSAT)** y mejora continua de procesos internos.  
-
----
-
-### 📐 Profesor de Matemáticas y Física – U.E. “Manuel Belloso” *(Venezuela)*  
-**Ago 2017 – Dic 2019**  
-Enseñanza personalizada, planificación académica y desarrollo del **pensamiento lógico**.  
+- 🎓 **Desarrollador Full Stack – Henry Bootcamp** (2025)
+- 🎓 **Licenciado en Educación (Matemáticas y Física) – UNERMB** (2016)
+- 🧠 **IA para Análisis de Datos – Henry**
+- ⚙️ **Docker de Novato a Pro – Cursa**
+- 🪙 **Blockchain – ETH Kipu (en curso)**
+- 🌍 **Inglés – SENA (en curso)**
 
 ---
 
@@ -127,32 +114,12 @@ Enseñanza personalizada, planificación académica y desarrollo del **pensamien
 
 ---
 
-## ✨ Frase que me define
-
-> 💬 “La tecnología no solo resuelve problemas, también conecta ideas, personas y sueños.”
-
----
-
-<p align="center">
+<div align="center">
+  <h3>Estadísticas de GitHub</h3>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonhatanCorona&theme=tokyonight" alt="racha de commits" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JonhatanCorona&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10&column=4" alt="trophies" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JonhatanCorona&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonhatanCorona&layout=compact&theme=tokyonight&hide_border=true" alt="lenguajes" />
-</p>
+</div>
 
 ---
-
-<p align="center">
-  ⭐ Si te gustó mi trabajo, ¡no dudes en dejar una estrella o conectar conmigo en LinkedIn!
-</p>
-
-
