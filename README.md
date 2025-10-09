@@ -12,7 +12,7 @@
 Soy un **Desarrollador Full Stack** con un fuerte enfoque en **Backend** y dominio del ecosistema **JavaScript / TypeScript**. 
 Mi experiencia previa como **profesor de matemáticas** me proporcionó una **sólida base lógica** que aplico para crear soluciones **claras, escalables y seguras**.
 
-Actualmente, desarrollo **APIs RESTful** (Node.js, Express, JWT) y optimizo recursos con **Cloudinary** y **PostgreSQL** en la plataforma financiera **SwaplyAr**. Ademas me estoy formando en Blockchain con ETH Kipu, con el objetivo de desarrollar aplicaciones descentralizadas (dApps) y contratos inteligentes en el ecosistema Web3
+Actualmente, desarrollo **APIs RESTful** (Node.js, Express, JWT) y optimizo recursos con **Cloudinary** y **PostgreSQL** en la plataforma financiera **SwaplyAr**. Ademas me estoy formando en Blockchain con ETH Kipu, con el objetivo de desarrollar aplicaciones descentralizadas (dApps) y contratos inteligentes en el ecosistema Web3.
 
 **En Crecimiento Constante:**
 * 📘 **Inglés** (SENA) para mejorar la comunicación global.
